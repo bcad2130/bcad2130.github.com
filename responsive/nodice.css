@@ -1,4 +1,7 @@
 div{
-	font-family: Verdana;
-	display: none;
+	color: red;
+}
+
+p{
+	font-size: 400%;
 }

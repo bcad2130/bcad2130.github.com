@@ -1,4 +1,7 @@
 div{
-	font-family: Helvetica;
 	display: none;
+}
+
+p{
+	font-size: 400%;
 }
