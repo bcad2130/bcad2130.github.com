@@ -1,0 +1,49 @@
+body{
+	background: #66CCCC;
+	font-family: Verdana, serif;
+}
+
+h1{
+	color: red;
+	font-size: 66px;
+	font-family: fantasy, serif;
+	text-align: center;
+	margin: 0px;
+	background-color:chartreuse;
+}
+
+#linkage{
+	position: relative;
+	text-align: center;
+	background-color: #DDDDDD;
+	font-style: oblique;
+	font-size: 20px;
+	/*left-margin: 45%;*/
+	/*right: 45%;*/
+}
+
+a{
+	top: 0px;
+	color: purple;
+	font-style: strong;
+}
+
+a:hover{
+	color: #777777;
+}
+
+img{
+	background-color: #111111;
+	/*margin: 5px;*/
+	float: left;
+	height: 200px;
+}
+
+#click:hover{
+	background-color: green;
+}
+
+#clear{
+	text-align:center;
+	color:#66CCCC;
+}
