@@ -1,11 +1,12 @@
 body{
 	background: #66CCCC;
 	font-family: Verdana, serif;
+	font-size: 24px;
 }
 
 h1{
 	color: blue;
-	font-size: 150px;
+	font-size: 80px;
 	font-family: fantasy, serif;
 	text-align: center;
 	margin: 0px;
@@ -17,7 +18,7 @@ h1{
 	text-align: center;
 	background-color: #DDDDDD;
 	font-style: oblique;
-	font-size: 80px;
+	font-size: 60px;
 	/*left-margin: 45%;*/
 	/*right: 45%;*/
 }
@@ -36,7 +37,7 @@ img{
 	background-color: #111111;
 	/*margin: 5px;*/
 	float: left;
-	height: 1000px;
+	height: 500px;
 }
 
 #click:hover{
