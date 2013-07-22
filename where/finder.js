@@ -120,7 +120,7 @@ var stations = [
 			}
         }
 		else if(request.status == 0)
-			alert("Schdule does not exist.");
+			alert("Schedule does not exist.");
 	}
 	
 	function wheres(str){
