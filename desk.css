@@ -1,12 +1,13 @@
 body{
 	background: #DDEEFF;
-	font-family: Verdana, serif;
+	/*font-family: "Lucida Console", sans-serif;*/
 }
 
 h1{
 	margin-top: .2em;
 	margin-bottom: .2em;
-	color: rgb(142,11,0);
+	color: #BB0000;
+	/*, rgb(142,11,0);*/
 	font-size: 4.0em;
 	font-family: Georgia, fantasy, serif;
 	letter-spacing: .8em;
@@ -21,7 +22,8 @@ h1 span{
   font-size: .7em;
   font-family: Georgia;
   letter-spacing: 0.1em;
-  color: rgb(142,11,0);
+  color: #BB0000;
+  /*rgb(142,11,0);*/
   text-shadow: 1px 1px 1px rgba(255,255,255,0.9);
 }
 
@@ -42,12 +44,6 @@ h1 span{
 	-webkit-column-count:2; /* Safari and Chrome */
 }
 
-#navi{width: 12em;
-	height: 7em;
-	display:block;
-	font-family: Tahoma, Geneva, Lucida Console;
-}
-
 li{
   list-style: none;
   /*background-color: #039;
@@ -55,6 +51,13 @@ li{
   text-align: left;
   margin: 1em;
   color: #336699;
+  font-family: Verdana, sans-serif;
+}
+
+#navi{width: 12em;
+	height: 6em;
+	display:block;
+	font-family: Verdana, serif;
 }
 
 ::selection {
@@ -74,7 +77,7 @@ color:#555;
 
 a{
 	top: 0px;
-	color: #990000;
+	color: #BB0000;
 }
 
 a:hover{
@@ -86,7 +89,7 @@ a:hover{
 }*/
 
 #youarehere {
-	color: #0000FF;
+	color: #000088;
 	text-transform:capitalize;
 	border-style: outset;
 }
@@ -121,7 +124,7 @@ img{
 }
 
 p{
-font-family: Century Gothic, ‘Palatino Linotype’, ‘Book Antiqua’, Palatino, serif;
+font-family: Verdana, serif;
 }
 
 #bio {
@@ -132,13 +135,14 @@ font-family: Century Gothic, ‘Palatino Linotype’, ‘Book Antiqua’, Palati
 
 h3{
 	background-color: #66CCFF;
-	color: #990000;
+	color: #BB0000;
+	font-family: "Arial Black", serif;
 	/*springgreen;*/
 }
 
 ul.tabs {
 	/*font-style: italic;*/
-	font-family: Georgia;
+	font-family: Verdana;
 }
 
 #smcaps {
@@ -147,5 +151,5 @@ ul.tabs {
 }
 
 strong {
-	color: #CC0000;
+	color: #BB0000;
 }
