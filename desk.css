@@ -50,7 +50,8 @@ li{
   border-top: solid 1px #039;*/
   text-align: left;
   margin: 1em;
-  color: #336699;
+  color: #000088;
+  /*#336699;*/
   font-family: Verdana, sans-serif;
 }
 
@@ -124,7 +125,8 @@ img{
 }
 
 p{
-font-family: Verdana, serif;
+	font-family: Verdana, serif;
+	color: #000088;
 }
 
 #bio {
@@ -134,10 +136,12 @@ font-family: Verdana, serif;
 }
 
 h3{
-	background-color: #66CCFF;
+	background-color: #000088;
+	/*#66CCFF;*/
 	color: #BB0000;
 	font-family: "Arial Black", serif;
 	/*springgreen;*/
+	text-shadow: 1px 1px 1px rgba(255,255,255,0.7);
 }
 
 ul.tabs {
