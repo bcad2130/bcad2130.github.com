@@ -84,7 +84,7 @@ a{
 }
 
 a:hover{
-	color: #777777;
+	color: #66CCFF;
 }
 
 /*ul{
@@ -139,8 +139,11 @@ p{
 }
 
 h3{
-	background-color: #000088;
-	/*#66CCFF;*/
+	/*background-color: #66CCFF;*/
+	text-align: center;
+	border-bottom: 2px solid #000088;
+	/*border-style: inset;
+	border-color: #000088;*/
 	color: #BB0000;
 	font-family: "Arial Black", serif;
 	/*springgreen;*/
@@ -159,4 +162,8 @@ ul.tabs {
 
 strong {
 	color: #BB0000;
+}
+
+#blurb {
+	margin-top: 1em;
 }
